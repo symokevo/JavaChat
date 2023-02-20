@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Zimaster
+ *
+ */
+module JavaChat {
+}
